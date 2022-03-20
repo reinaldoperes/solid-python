@@ -25,4 +25,3 @@ if __name__ == '__main__':
   manager = Manager('manager', 'manager@hotmail.com')
   
   print(member.members())
-  print(manager.members())

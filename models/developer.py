@@ -1,7 +1,7 @@
-from models.developer import Developer
+from models.user import User
 
 
-class Member(Developer):
+class Developer(User):
   
   def __init__(self, username, email):
     super().__init__(username, email)
