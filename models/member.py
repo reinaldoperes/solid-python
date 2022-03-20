@@ -9,3 +9,9 @@ class Member(Developer):
   @staticmethod
   def members():
     return ['user 1', 'user 2', 'user 3']
+  
+  def pay_bill():
+    return 'Paying bills....'
+  
+  def code():
+    pass
