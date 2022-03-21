@@ -9,7 +9,7 @@ A casual Python project applying SOLID principles
 - **D**ependency invertion
 
 ## Bad code vs Nice code using SOLID
-You can use the Github compare commits to see the difference between the two type codes
+You can use the Github compare commits to see the difference between the two type codes. The commits are separated as 'feat' for bad code and 'refactor' for refactoring to the principles ([Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/))
 Example using this url (the separator between the commits is '...' i.e. 3 dots): 
 - [Example](https://github.com/reinaldoperes/solid-python/compare/79c3a19e57b58be0ccc50ac705bfc5c4fd0be7e4...44965a74fc039c5f7f690db8e1801014789ac0cd)
 
